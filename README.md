@@ -1,7 +1,7 @@
 # realtime-chat-app
 Real-time chat application with Node.js, Socket.IO and Express
 
-Link to Project:
+Link to App:
 
 https://messenger-botashew.herokuapp.com/
 
